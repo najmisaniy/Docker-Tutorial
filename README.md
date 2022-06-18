@@ -5,6 +5,7 @@
 Group Members | Matric Number
 --------------|--------------
  Muhammad Najmi Saniy Bin Mohd Nazul | (1823617)
+ Afnan Iman bin Azman | (1920311)
 
 ### Table of Content
 
