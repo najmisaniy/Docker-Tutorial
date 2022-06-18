@@ -19,7 +19,7 @@ Docker also refers to Docker, Inc. (link resides outside IBM), the company that 
 
 
 ### Required Installation steps and procedures
-Go to [GitHub]([(https://www.docker.com/)])
+Go to [Docker](https://www.docker.com/)) website
 
 
 ###
