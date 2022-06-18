@@ -20,6 +20,7 @@ Docker also refers to Docker, Inc. (link resides outside IBM), the company that 
 
 ### Required Installation steps and procedures
 1)Go to [Docker](https://www.docker.com/products/docker-desktop/) website and download installer for Windows
+
 ![Docker Page](Image/Docker Page.png)
 
 
