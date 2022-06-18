@@ -28,7 +28,7 @@ Docker also refers to Docker, Inc. (link resides outside IBM), the company that 
 1. Open cmd.exe by pressing “windows” button + “r” button
 2. Type mkdir “PMA_docker” to make a phpmyadmin directory named PMA_docker
 3. Type “cd PMA_docker’ to change directory to PMA_docker
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step3.png)
+![step3](/Image/dockerPMAsetup/step3.png)
 4. Type “code .” to create a new visual studio code in the directory
 ![step3](Docker-Tutorial/Image/dockerPMAsetup/step4.png)
    Pressing enter will open visual studio code project
