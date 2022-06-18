@@ -24,6 +24,22 @@ Docker also refers to Docker, Inc. (link resides outside IBM), the company that 
 
 ![Docker Page](Image/Docker Page.png)
 
+## Setup phpMyAdmin and MySQL with Docker
+1. Open cmd.exe by pressing “windows” button + “r” button
+2. Type mkdir “PMA_docker” to make a phpmyadmin directory named PMA_docker
+3. Type “cd PMA_docker’ to change directory to PMA_docker
+4. Type “code .” to create a new visual studio code in the directory
+5. Press the new file icon
+6. Name the file docker-compose.yml
+7. Fill in the file with the following code:
+8. Open xampp and start Apache and MySQL
+9. Type “docker-compose up -d” to run service and wait for process to finish
+10. Open localhost:8082 on your browser
+11. Create new table named library
+12. Insert column name, and length
+13. Press “insert” button to insert data
+14. Insert data and press “go”
+
 
 ###
 ###
