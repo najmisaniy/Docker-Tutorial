@@ -30,17 +30,27 @@ Docker also refers to Docker, Inc. (link resides outside IBM), the company that 
 3. Type “cd PMA_docker’ to change directory to PMA_docker
 ![step3](Docker-Tutorial/Image/dockerPMAsetup/step3.png)
 4. Type “code .” to create a new visual studio code in the directory
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step4.png)
+   Pressing enter will open visual studio code project
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step4_2.png)
 5. Press the new file icon
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step5.png)
 6. Name the file docker-compose.yml
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step6.png)
 7. Fill in the file with the following code:
-8. Open xampp and start Apache and MySQL
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step7.png)
 9. Type “docker-compose up -d” to run service and wait for process to finish
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step9.png)
 10. Open localhost:8082 on your browser
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step10.png)
 11. Create new table named library
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step11.png)
 12. Insert column name, and length
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step12.png)
 13. Press “insert” button to insert data
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step13.png)
 14. Insert data and press “go”
-
+![step3](Docker-Tutorial/Image/dockerPMAsetup/step14.png)
 
 ###
 ###
