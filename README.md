@@ -32,25 +32,27 @@ Docker also refers to Docker, Inc. (link resides outside IBM), the company that 
 4. Type “code .” to create a new visual studio code in the directory
 ![step3](Docker-Tutorial/Image/dockerPMAsetup/step4.png)
    Pressing enter will open visual studio code project
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step4_2.png)
+![step4](Docker-Tutorial/Image/dockerPMAsetup/step4_2.png)
 5. Press the new file icon
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step5.png)
+![step5](Docker-Tutorial/Image/dockerPMAsetup/step5.png)
 6. Name the file docker-compose.yml
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step6.png)
+![step6](Docker-Tutorial/Image/dockerPMAsetup/step6.png)
 7. Fill in the file with the following code:
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step7.png)
-9. Type “docker-compose up -d” to run service and wait for process to finish
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step9.png)
-10. Open localhost:8082 on your browser
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step10.png)
-11. Create new table named library
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step11.png)
-12. Insert column name, and length
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step12.png)
-13. Press “insert” button to insert data
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step13.png)
-14. Insert data and press “go”
-![step3](Docker-Tutorial/Image/dockerPMAsetup/step14.png)
+![step7](Docker-Tutorial/Image/dockerPMAsetup/step7.png)
+8. Type “docker-compose up -d” to run service and wait for process to finish
+![step8](Docker-Tutorial/Image/dockerPMAsetup/step9.png)
+9. Open localhost:8082 on your browser
+![step9](Docker-Tutorial/Image/dockerPMAsetup/step10.png)
+10. Create new table named library
+![step10](Docker-Tutorial/Image/dockerPMAsetup/step11.png)
+11. Insert column name, and length
+![step11](Docker-Tutorial/Image/dockerPMAsetup/step12.png)
+12. Press “insert” button to insert data
+![step12](Docker-Tutorial/Image/dockerPMAsetup/step13.png)
+13. Insert data and press “go”
+![step13](Docker-Tutorial/Image/dockerPMAsetup/step14.png)
+14. done 
+![step14](Docker-Tutorial/Image/dockerPMAsetup/step15.png)
 
 ###
 ###
