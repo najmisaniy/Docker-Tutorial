@@ -12,7 +12,7 @@ Group Members | Matric Number
 
 Docker Installation
 
-### Introduction
+## Introduction
 Docker is an open source containerization platform. It enables developers to package applications into containers—standardized executable components combining application source code with the operating system (OS) libraries and dependencies required to run that code in any environment. Containers simplify delivery of distributed applications, and have become increasingly popular as organizations shift to cloud-native development and hybrid multicloud environments.
 
 Developers can create containers without Docker, but the platform makes it easier, simpler, and safer to build, deploy and manage containers. Docker is essentially a toolkit that enables developers to build, deploy, run, update, and stop containers using simple commands and work-saving automation through a single API.
@@ -20,10 +20,40 @@ Developers can create containers without Docker, but the platform makes it easie
 Docker also refers to Docker, Inc. (link resides outside IBM), the company that sells the commercial version of Docker, and to the Docker open source project (link resides outside IBM), to which Docker, Inc. and many other organizations and individuals contribute.
 
 
-### Required Installation steps and procedures
+## Required Installation steps and procedures
 1)Go to [Docker](https://www.docker.com/products/docker-desktop/) website and download installer for Windows
+<img src="https://github.com/najmisaniy/Docker-Tutorial/blob/df659f04a41996fc5a01cf3fb1f6559e9aec185e/Image/Docker%20Page.png">
 
-![Docker Page](Image/Docker Page.png)
+2)Open docker installer
+![installer](/Image/dockerinstaller.png)
+
+3)Tick on Use WSL2 instead of Hyper-V (Add shortcut to desktop is optional)
+
+<img src="https://github.com/najmisaniy/Docker-Tutorial/blob/3acae9d6b4b7845f4f70974a016047946cc8978a/Image/tick%20on.png">
+
+4) Let the installer finish installing the Docker
+![installing](/Image/installing.png)
+
+
+
+Docker successfully installed
+
+<img src="https://github.com/najmisaniy/Docker-Tutorial/blob/3acae9d6b4b7845f4f70974a016047946cc8978a/Image/install%20succeed.png">
+
+5) Open Docker and accept the agreement
+![installing](/Image/aggreement.png)
+
+6) The Docker will start working and pop up will appear if WSL 2 installation is not complete
+
+<img src="https://github.com/najmisaniy/Docker-Tutorial/blob/3acae9d6b4b7845f4f70974a016047946cc8978a/Image/WSAL%202%20INCOMPLETE.png">
+
+7) Click on the [link](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package) given and follow the step to install the WSL 2
+
+8) Restart Your Device and Docker is ready to use
+
+
+
+
 
 ## Setup phpMyAdmin and MySQL with Docker
 1. Open cmd.exe by pressing “windows” button + “r” button
